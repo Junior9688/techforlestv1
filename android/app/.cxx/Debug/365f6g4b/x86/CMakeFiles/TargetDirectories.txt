@@ -1,0 +1,2 @@
+C:/TechForless/android/app/.cxx/Debug/365f6g4b/x86/CMakeFiles/edit_cache.dir
+C:/TechForless/android/app/.cxx/Debug/365f6g4b/x86/CMakeFiles/rebuild_cache.dir

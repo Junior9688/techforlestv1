@@ -1,0 +1,2 @@
+C:/TechForless/android/app/.cxx/RelWithDebInfo/44236p29/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/TechForless/android/app/.cxx/RelWithDebInfo/44236p29/arm64-v8a/CMakeFiles/rebuild_cache.dir
